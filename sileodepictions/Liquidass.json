@@ -1,0 +1,64 @@
+}
+"minVersion":"0.4",
+"headerImage":"https://github.com/kentechboi12vn/repo/raw/110970bb57b79e237ba8c7b25221de0cab9cb0aa/RepoIcon.png",
+"tintColor":"#335FFF",
+"tabs":[
+{
+"tabname":"Mô tả",
+"views":[
+{
+"text": "Server Discord Ken_TechBoi12 VN Việt Nam",
+"action": "https://discord.gg/VKJtdrcUXq",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"Trải nghiệm hiện ứng Liquid Glass iOS 26 trên iPhone/iPad đời cũ.",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+},
+{
+"tabname":"Thay đổi nhật ký",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"Các thay đổi được thông báo trên GitHub của WinAviation."
+}
+],
+"class":"DepictionStackView"
+},
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Liên hệ Hai",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Discord (Vietnam only)",
+"action": "https://discord.gg/VKJtdrcUXq"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Messenger (for Global)",
+"action": "https://m.me/KenTechBoi"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 - 2026 Ken_TechBoi12 VN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
+
