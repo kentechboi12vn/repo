@@ -1,8 +1,9 @@
-Origin: DTCalabro's Repo
-Label: DTCalabro's Repo
+Origin: Ken_TechBoi12 VN
+Label: iPhone-iPad Jailbreak
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: DTCalabros's Repo - A repo hosting my own tweaks
+Description: iPhone-iPad Jailbreak
+MD5Sum:
